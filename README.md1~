@@ -1,1 +1,7 @@
 # Mem-Serwis-Projekt
+
+Projekt zaliczeniowy na kierunku ALK Frontend Developer z React. 
+Aplikacja wyświetla listę memów które użytkownicy mogą oceniać. 
+Memy z najlepszym stosunkiem like do dislike trafiają na listę Top Memes. 
+
+* wersja 1.0 desktop

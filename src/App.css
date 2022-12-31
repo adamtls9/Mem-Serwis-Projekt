@@ -1,0 +1,17 @@
+.App {
+    margin: 0;
+    padding: 0;
+    /* background:  #dfd8ff; */
+    width: 100%;
+    height: 100%;
+    /* background-image: linear-gradient(to bottom, #ffffff, #dfd8ff, #bfb1ff, #9d8bff, #7864ff); */
+
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* background-image: linear-gradient(to right top, #ffb067, #ff9d8e, #ff98ba, #e29fdd, #adaaee, #8f9fe1, #7194d2, #5289c2, #486aa8, #414b8b, #3c2d6c, #350a4c); */

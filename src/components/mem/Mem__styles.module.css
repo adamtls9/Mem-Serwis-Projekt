@@ -1,0 +1,82 @@
+.mem {
+  margin: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 90%;
+  height: auto;
+  background: rgb(22, 27, 34);
+  box-shadow: 0 0px 16px -2px rgb(255, 115, 0);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 8px;
+}
+
+.header {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.image {
+  max-width: 85%;
+  height: auto;
+}
+
+.votes {
+  width: 70%;
+  margin: 8px;
+  height: 48px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  box-shadow: rgba(255, 0, 0, 0.1) 0px 10px 10px -10px;
+}
+
+.downvotesBtn,
+.upvotesBtn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: rgb(186, 187, 189);
+  padding: 20px 8px;
+  font-size: 30px;
+}
+
+.downvotes,
+.upvotes {
+
+  padding: 4px 16px 4px 0px;
+  font-size: 25px;
+}
+
+.upvotes,
+.upvotesBtn:hover {
+  color: rgb(0, 196, 10);
+}
+
+.downvotes,
+.downvotesBtn:hover {
+  color: red;
+}
+
+@media (min-width: 600px) and (max-width: 960px) {
+  .mem {
+    width: 50%;
+  }
+}
+
+@media (min-width: 961px) and (max-width: 1280px) {
+  .mem {
+    width: 44%;
+  }
+}
+
+@media (min-width: 1281px) {
+  .mem {
+    width: 32%;
+  }
+}

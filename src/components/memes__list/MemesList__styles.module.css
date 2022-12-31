@@ -1,0 +1,12 @@
+.list {
+    margin-top: 4rem;
+    min-height: calc(100vh - 4rem);
+    width: 100%;
+    background: rgb(13, 17, 23);
+    color: rgb(186, 187, 189);
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
