@@ -64,14 +64,14 @@
     flex-direction: row;
     position: relative;
     top: 0;
-    font-size: 24px;
+    font-size: 20px;
     transform: none;
 }
 
 .link {
     align-items: center;
     width: auto;
-    display: block;
+    /* display: block; */
     margin: 0 8px;
     padding: 8px;
     border: 1px solid white;

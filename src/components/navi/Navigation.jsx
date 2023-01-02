@@ -13,7 +13,7 @@ const Navigation = () => {
           className={styles.link}
           to="/hot"
         >
-          TOP MEME!
+          TOP!
         </NavLink>
         <NavLink
           className={styles.link}
