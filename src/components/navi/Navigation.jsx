@@ -10,14 +10,16 @@ const Navigation = () => {
 
       <div className={styles.navbar}>
         <NavLink
+          activeClassName={styles.active}
           className={styles.link}
-          to="/hot"
+          to="/top"
         >
           TOP!
         </NavLink>
         <NavLink
+          activeClassName={styles.active}
           className={styles.link}
-          to="/regular"
+          to="/home"
         >
           Home
         </NavLink>

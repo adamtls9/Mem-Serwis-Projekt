@@ -5,8 +5,8 @@ import RegularMemes from "../regular__memes/RegularMemes";
 const Routing = () => (
   <Routes>
     <Route path="/" element={<RegularMemes />} />
-      <Route path="/hot" element={<HotMemes />} />
-      <Route path="/regular" element={<RegularMemes />} />
+      <Route path="/top" element={<HotMemes />} />
+      <Route path="/home" element={<RegularMemes />} />
   </Routes>
 );
 
