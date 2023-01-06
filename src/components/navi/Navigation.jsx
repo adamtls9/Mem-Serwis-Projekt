@@ -10,14 +10,15 @@ const Navigation = () => {
 
       <div className={styles.navbar}>
         <NavLink
-          activeClassName={styles.active}
+          style={({isActive})=>{return {color: isActive ? 'white' : ""}}}
           className={styles.link}
           to="/top"
         >
           TOP!
         </NavLink>
+        
         <NavLink
-          activeClassName={styles.active}
+          style={({isActive})=>{return {color: isActive ? 'white' : ""}}}
           className={styles.link}
           to="/home"
         >

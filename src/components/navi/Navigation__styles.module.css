@@ -31,15 +31,7 @@
     color: rgb(186, 187, 189);
     cursor: pointer;
     align-items: center;
-    /* border: 1px solid white; */
 }
-
-/* 
-.active {
-    border-bottom: rgb(19, 226, 0);
-} */
-
-;
 
 .link:hover {
     color: white;
