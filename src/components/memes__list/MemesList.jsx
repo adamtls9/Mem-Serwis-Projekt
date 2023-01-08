@@ -19,7 +19,9 @@ const MemesList = ({ memesData }) => {
           <Mem key={mem.id} mem={mem} onMemChange={handleMemChange} />
         ))
       ) : (
-        <p>Nic tu jeszcze nie ma :( </p>
+        <p className={styles.empty}>
+          There's nothing here, yet. 
+        </p>
       )}
     </div>
   );

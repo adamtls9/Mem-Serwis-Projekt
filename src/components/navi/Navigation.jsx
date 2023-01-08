@@ -24,7 +24,14 @@ const Navigation = () => {
         >
           Home
         </NavLink>
-        
+
+        <NavLink
+          style={({isActive})=>{return {color: isActive ? 'white' : ""}}}
+          className={styles.link}
+          to="/form"
+        >
+          Add yours!
+        </NavLink>
       </div>
     </div>
   );
