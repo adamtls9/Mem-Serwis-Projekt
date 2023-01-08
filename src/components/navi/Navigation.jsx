@@ -25,13 +25,13 @@ const Navigation = () => {
           Home
         </NavLink>
 
-        <NavLink
+        {/* <NavLink
           style={({isActive})=>{return {color: isActive ? 'white' : ""}}}
           className={styles.link}
           to="/form"
         >
           Add yours!
-        </NavLink>
+        </NavLink> */}
       </div>
     </div>
   );
