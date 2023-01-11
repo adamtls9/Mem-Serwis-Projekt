@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Mem-Serwis-Projekt/static/css/main.35fc85dc.css",
+    "main.js": "/Mem-Serwis-Projekt/static/js/main.36cd8e4e.js",
+    "static/media/fa-solid-900.ttf": "/Mem-Serwis-Projekt/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/topmemeslogo.png": "/Mem-Serwis-Projekt/static/media/topmemeslogo.7b204b1e94968b7ec95c.png",
+    "static/media/fa-brands-400.ttf": "/Mem-Serwis-Projekt/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Mem-Serwis-Projekt/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Mem-Serwis-Projekt/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/mem2.webp": "/Mem-Serwis-Projekt/static/media/mem2.684d95e1bcd4563d1cac.webp",
+    "static/media/mem4.webp": "/Mem-Serwis-Projekt/static/media/mem4.87d6ee1f543691ce0c75.webp",
+    "static/media/mem6.webp": "/Mem-Serwis-Projekt/static/media/mem6.ff382c0edf30280a4933.webp",
+    "static/media/mem3.jpg": "/Mem-Serwis-Projekt/static/media/mem3.4720224935d78c420204.jpg",
+    "static/media/mem8.webp": "/Mem-Serwis-Projekt/static/media/mem8.2c6f37ea14edfff47c8c.webp",
+    "static/media/fa-regular-400.ttf": "/Mem-Serwis-Projekt/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/mem11.webp": "/Mem-Serwis-Projekt/static/media/mem11.73ac8c11a555293e8a99.webp",
+    "static/media/mem12.webp": "/Mem-Serwis-Projekt/static/media/mem12.95fa477679733531cab8.webp",
+    "static/media/mem9.webp": "/Mem-Serwis-Projekt/static/media/mem9.81687a448db9ec5d57e0.webp",
+    "static/media/mem1.webp": "/Mem-Serwis-Projekt/static/media/mem1.8a45dc8d2ec4c5f9a787.webp",
+    "static/media/mem7.webp": "/Mem-Serwis-Projekt/static/media/mem7.ee0038c711a2eb1e0aa9.webp",
+    "static/media/mem10.webp": "/Mem-Serwis-Projekt/static/media/mem10.cfb128d070b7c06a317a.webp",
+    "static/media/mem5.webp": "/Mem-Serwis-Projekt/static/media/mem5.238299685fd2860c7208.webp",
+    "static/media/fa-regular-400.woff2": "/Mem-Serwis-Projekt/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Mem-Serwis-Projekt/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Mem-Serwis-Projekt/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Mem-Serwis-Projekt/index.html",
+    "main.35fc85dc.css.map": "/Mem-Serwis-Projekt/static/css/main.35fc85dc.css.map",
+    "main.36cd8e4e.js.map": "/Mem-Serwis-Projekt/static/js/main.36cd8e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35fc85dc.css",
+    "static/js/main.36cd8e4e.js"
+  ]
+}
