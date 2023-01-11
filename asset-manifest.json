@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mem-Serwis-Projekt/static/css/main.35fc85dc.css",
+    "main.css": "/Mem-Serwis-Projekt/static/css/main.5b669128.css",
     "main.js": "/Mem-Serwis-Projekt/static/js/main.36cd8e4e.js",
     "static/media/fa-solid-900.ttf": "/Mem-Serwis-Projekt/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/topmemeslogo.png": "/Mem-Serwis-Projekt/static/media/topmemeslogo.7b204b1e94968b7ec95c.png",
@@ -24,11 +24,11 @@
     "static/media/fa-v4compatibility.ttf": "/Mem-Serwis-Projekt/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/Mem-Serwis-Projekt/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Mem-Serwis-Projekt/index.html",
-    "main.35fc85dc.css.map": "/Mem-Serwis-Projekt/static/css/main.35fc85dc.css.map",
+    "main.5b669128.css.map": "/Mem-Serwis-Projekt/static/css/main.5b669128.css.map",
     "main.36cd8e4e.js.map": "/Mem-Serwis-Projekt/static/js/main.36cd8e4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.35fc85dc.css",
+    "static/css/main.5b669128.css",
     "static/js/main.36cd8e4e.js"
   ]
 }
