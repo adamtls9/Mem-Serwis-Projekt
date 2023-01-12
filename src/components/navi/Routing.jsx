@@ -5,7 +5,7 @@ import Form from "../form/Form";
 
 const Routing = () => (
   <Routes>
-      <Route path="/" element={<RegularMemes />} />
+      <Route path="/Mem-Serwis-Projekt" element={<RegularMemes />} />
       <Route path="/top" element={<HotMemes />} />
       <Route path="/home" element={<RegularMemes />} />
       <Route path="/form" element={<Form />} />
